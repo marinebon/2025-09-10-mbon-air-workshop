@@ -2,6 +2,8 @@
 
 This project site is built & hosted by GitHub to provide basic information about the 2025 MBON+AIR Centre's Marine BioData Mobilization Workshop.
 
+See also the (older) repo where dataset issues have been submitted [here](https://github.com/marinebon/air-mbon-mobilization-workshop).
+
 
 --------------------------------------------
 
