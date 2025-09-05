@@ -32,8 +32,7 @@ There are two ways of customizing your website. You can either:
 
     ![screenshot of this repository's GitHub page showing the "Branch" dropdown menu expanded with the "gh-pages" branch selected](fig/select-gh-pages-branch.png?raw=true)
 
-3.  Edit the header of `index.md` to customize the list of instructors,
-    workshop venue, etc.
+3.  Edit `index.md` or other files.
     You can do this in the browser by clicking on it in the file view on GitHub
     and then selecting the pencil icon in the menu bar:
 
@@ -41,25 +40,6 @@ There are two ways of customizing your website. You can either:
 
     Editing hints are embedded in `index.md`,
     and full instructions are in [the customization instructions][customization].
-
-4.  Remove the notice about using the workshop template in the `index.md` file. You can safely
-    delete everything between the `{% comment %}` and `{% endcomment %}` (included) as indicated
-    below (from line 37 to line 60):
-
-    ```jekyll
-    {% comment %} <------------ remove from this line
-    8< ============= For a workshop delete from here =============
-    For a workshop please delete the following block until the next dashed-line
-    {% endcomment %}
-
-    <div class="alert alert-danger">
-      ....
-    </div>
-
-    {% comment %}
-     8< ============================= until here ==================
-    {% endcomment %} <--------- until this line
-    ```
 
 4.  Edit `_config.yml` to customize certain site-wide variables, such as: `carpentry` (to tell your
     participants the lesson program for your workshop), `curriculum` and `flavor` for the
