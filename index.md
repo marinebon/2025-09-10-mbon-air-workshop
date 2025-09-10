@@ -235,9 +235,9 @@ Modify or remove the block below if you plan to record the workshop.
 {% endcomment %}
 <p id="recordings">
   <strong>Workshop Recordings:</strong>
-  Carpentries workshops are designed to be interactive rather than lecture-based, with lessons that build upon one another.
-  To foster a positive online learning environment, we strongly recommend that participants join in real time.
-  As a result, workshop recordings are not recommended and may not be available to learners.
+  This workshop is designed to be interactive rather than lecture-based, with lessons that build upon one another.
+  The workshop is in-person only; there will not be a virtual option.
+  As a result, workshop recordings not be available to learners.
 </p>
 {% comment %}
 CONTACT EMAIL ADDRESS
@@ -269,27 +269,6 @@ Display the contact email address set in the configuration file.
   To learn more about the roles at the workshop (who will be doing what),
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
-
-{% comment %}
-WHO CAN ATTEND?
-
-If you would like to specify who can attend the workshop,
-you can use the section below.
-
-Move the 'endcomment' tag above the beginning of the following
-<p> tag to make this section visible.
-
-Edit the text to match who can attend the workshop. For instance:
-- This workshop is open to affiliates to ABC university.
-- This workshop is open to the public.
-- If you are interested in attending this workshop, contact me@example.com
-  for more information
-
-<p id="who-can-attend">
-    <strong>Who can attend?:</strong>
-    This workshop is open to ....
-</p>
-{% endcomment %}
 
 <hr/>
 
@@ -331,31 +310,6 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 </p>
 <hr/>
 {% endif %}
-
-
-{% comment %}
-SURVEYS - DO NOT EDIT SURVEY LINKS
-{% endcomment %}
-<h2 id="surveys">Surveys</h2>
-<p>Please be sure to complete these surveys before and after the workshop.</p>
-{% if site.carpentry == "incubator" %}
-<p><a href="{{ site.incubator_pre_survey }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.incubator_post_survey }}">Post-workshop Survey</a></p>
-{% elsif site.incubator_pre_survey or site.incubator_post_survey %}
-<div class="alert alert-danger">
-WARNING: you have defined custom pre- and/or post-survey links for
-a workshop not configured for The Carpentries Incubator
-(the value of `curriculum` is not set to `incubator` in `_config.yml`).
-Please comment out the `incubator_pre_survey` and `incubator_post_survey` fields
-in `_config.yml` or, if this workshop is teaching a lesson in the Incubator,
-change the value of `carpentry` to `incubator`.
-</div>
-{% else %}
-<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% endif %}
-
-<hr/>
 
 
 {% comment %}
