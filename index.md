@@ -90,18 +90,10 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-<p>
-<strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
-href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
-<a href="{{site.lc_site}}">Library Carpentry</a> communities of Instructors, Trainers, Maintainers,
-helpers, and supporters who share a mission to teach foundational computational and data science
-skills to researchers.
-<p align="center">
-  <em>
-  <strong>Want to learn more and stay engaged with The Carpentries?</strong> Carpentries Clippings is The Carpentries' biweekly newsletter, where we share community news, community job postings, and more.
-Sign up to receive future editions and read our full archive: <a href="https://carpentries.org/newsletter/">https://carpentries.org/newsletter/</a>
-  </em>
-</p>
+The Marine Biodiversity Observation Network (MBON) and the AIR Centre will host a small, hands-on, interactive workshop focused on mobilizing marine biological observation datasets to the Ocean Biodiversity Information System (OBIS). The objective is to help data holders understand the value of following good practices for standardizing biological data, using widely accepted biodiversity standards like Darwin Core. This would include records of different biological attributes and ecosystem observations from different types of sampling methodologies. A complementary activity of the workshop will contemplate a field work day in which participants will receive training on the collection and processing of benthic photo-quadrat imagery and their analysis following MBON Pole to Pole monitoring protocols, aiming to enhance capacity for long-term monitoring of rocky intertidal communities.
+
+By the end of the workshop, attendees will have a clear understanding of the process of mobilizing biological data to OBIS and will have brought one of their datasets to a final maturity state that aligns with best practices for data sharing and biodiversity documentation. The workshop will also enhance awareness of improving the quality of marine biodiversity data and will increase the availability of marine biological data for scientific research, species conservation, and ecosystem-based management by promoting data publication through OBIS. Additionally, the workshop will foster collaborative research efforts among participants and contribute to the MBON community of practice by increasing capacity in the implementation of coordinated and standardized biodiversity observing and publishing efforts.
+
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
 {% elsif site.carpentry == "dc" %}
