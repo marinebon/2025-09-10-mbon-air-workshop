@@ -193,12 +193,13 @@ Modify the block below if there are any special requirements.
 
 Participants are expected to have familiarity with:
 
-* Working with taxonomic occurrence data
-* Using spreadsheet tools (e.g., Excel, LibreOffice, Google Sheets).
-* File handling & different file formats (Working with CSV, TXT, and Excel formats).
-* Basic Python or R programming
-* Study of sandy beach or rocky shore environments (not mandatory)
-* Basic data wrangling skills for marine biodiversity data management (e.g., data structuring)
+
+<li> Working with taxonomic occurrence data </li>
+<li> Using spreadsheet tools (e.g., Excel, LibreOffice, Google Sheets). </li>
+<li> File handling & different file formats (Working with CSV, TXT, and Excel formats). </li>
+<li> Basic Python or R programming. </li>
+<li> Study of sandy beach or rocky shore environments (not mandatory). </li>
+<li> Basic data wrangling skills for marine biodiversity data management (e.g., data structuring). </li>
 
   Familiarity with a few specific software packages are recommended (listed <a href="#setup">below</a>).
 </p>
