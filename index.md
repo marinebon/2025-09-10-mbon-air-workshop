@@ -252,16 +252,6 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
-<div class="row">
-  <div class="col-md-6">
-    <img src="img/mbon-logo.png" alt="MBON Logo">
-  </div>
-  <div class="col-md-6">
-    <img src="img/air-logo.png" alt="AIR Logo">
-  </div>
-</div>
-
-
 <hr/>
 
 {% comment%}
@@ -409,3 +399,10 @@ Please check the "Setup" page of
 <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
+
+
+<div class="row">
+  <div class="col-md-12">
+    <img src="img/logos.jpg" alt="MBON and AIR Logo">
+  </div>
+</div>
