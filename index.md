@@ -324,11 +324,20 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule</h2>
 
+<p>
+  Reference materials for each section are linked in the schedule below.
+</p>
+
 {% include custom-schedule.html %}
 
 {% if site.pilot %}
 The lesson taught in this workshop is being piloted and a precise schedule is yet to be established. The workshop will include regular breaks. Please <a href="mailto:{{page.email}}">contact the workshop organisers</a> if you would like more information about the planned schedule.
 {% endif %}
+
+<p>
+  Additional reference materials:
+  <li><a href="https://manual.obis.org/access.html">OBIS Manual</a></li>
+</p>
 
 <hr/>
 
