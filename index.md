@@ -252,11 +252,15 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
-<p id="roles">
-  <strong>Roles:</strong>
-  To learn more about the roles at the workshop (who will be doing what),
-  refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
-</p>
+<div class="row">
+  <div class="col-md-6">
+    <img src="img/mbon-logo.png" alt="MBON Logo">
+  </div>
+  <div class="col-md-6">
+    <img src="img/air-logo.png" alt="AIR Logo">
+  </div>
+</div>
+
 
 <hr/>
 
