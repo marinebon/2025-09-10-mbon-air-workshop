@@ -412,9 +412,9 @@ to obtain the software and data you will need to follow the lesson.
     <img src="img/logo-azores.png" alt="Azores logo" width="100%">
     <img src="img/logo-flad.png" alt="FLAD logo" width="100%">
     <img src="img/logo-iitaa.png" alt="IITAA logo" width="100%">
-    <img src="img/logo-unesco.png" alt="UNESCO Logo" width="100%">
   </div>
   <div class="col-md-6">
-      <img src="img/logo-unsdg" alt="UN SDG Logo" width="100%">
+      <img src="img/logo-unsdg.png" alt="UN SDG Logo" width="100%">
+      <img src="img/logo-unesco.png" alt="UNESCO Logo" width="100%">
   </div>
 </div>
