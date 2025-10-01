@@ -405,11 +405,11 @@ to obtain the software and data you will need to follow the lesson.
 
 <div class="row">
   <div class="col-md-12">
-    <img src="img/logos.jpg" alt="MBON and AIR Logo">
-    <img src="img/logo-azores.png" alt="Azores logo">
-    <img src="img/logo-flad.png" alt="FLAD logo">
-    <img src="img/logo-iitaa.png" alt="IITAA logo">
-    <img src="img/logo-unesco.png" alt="UNESCO Logo">
-    <img src="img/logo-unsdg" alt="UN SDG Logo">
+    <img src="img/logos.jpg" alt="MBON and AIR Logo" width="100%">
+    <img src="img/logo-azores.png" alt="Azores logo" width="100%">
+    <img src="img/logo-flad.png" alt="FLAD logo" width="100%">
+    <img src="img/logo-iitaa.png" alt="IITAA logo" width="100%">
+    <img src="img/logo-unesco.png" alt="UNESCO Logo" width="100%">
+    <img src="img/logo-unsdg" alt="UN SDG Logo" width="100%">
   </div>
 </div>
