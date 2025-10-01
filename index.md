@@ -67,6 +67,8 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
+<img src="img/logo-workshop.png" alt="workshop logo image">
+
 The Marine Biodiversity Observation Network (MBON) and the AIR Centre will host a small, hands-on, interactive workshop focused on mobilizing marine biological observation datasets to the Ocean Biodiversity Information System (OBIS). The objective is to help data holders understand the value of following good practices for standardizing biological data, using widely accepted biodiversity standards like Darwin Core. This would include records of different biological attributes and ecosystem observations from different types of sampling methodologies. A complementary activity of the workshop will contemplate a field work day in which participants will receive training on the collection and processing of benthic photo-quadrat imagery and their analysis following MBON Pole to Pole monitoring protocols, aiming to enhance capacity for long-term monitoring of rocky intertidal communities.
 
 By the end of the workshop, attendees will have a clear understanding of the process of mobilizing biological data to OBIS and will have brought one of their datasets to a final maturity state that aligns with best practices for data sharing and biodiversity documentation. The workshop will also enhance awareness of improving the quality of marine biodiversity data and will increase the availability of marine biological data for scientific research, species conservation, and ecosystem-based management by promoting data publication through OBIS. Additionally, the workshop will foster collaborative research efforts among participants and contribute to the MBON community of practice by increasing capacity in the implementation of coordinated and standardized biodiversity observing and publishing efforts.
@@ -404,5 +406,10 @@ to obtain the software and data you will need to follow the lesson.
 <div class="row">
   <div class="col-md-12">
     <img src="img/logos.jpg" alt="MBON and AIR Logo">
+    <img src="img/logo-azores.png" alt="Azores logo">
+    <img src="img/logo-flad.png" alt="FLAD logo">
+    <img src="img/logo-iitaa.png" alt="IITAA logo">
+    <img src="img/logo-unesco.png" alt="UNESCO Logo">
+    <img src="img/logo-unsdg" alt="UN SDG Logo">
   </div>
 </div>
