@@ -402,6 +402,9 @@ Please check the "Setup" page of
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
 
+<hr>
+<hr>
+<hr>
 
 <div class="row">
   <div class="col-md-6">
